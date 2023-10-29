@@ -1,1 +1,4 @@
-.vscode
+.vscode/
+apiKeys.json
+node_modules/
+package-lock.json
